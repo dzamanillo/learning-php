@@ -10,3 +10,6 @@
 <?php
     print 'Hello World';
 ?>
+
+<?php
+echo 'PHP version: ' . phpversion();
