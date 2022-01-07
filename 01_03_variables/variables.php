@@ -8,6 +8,8 @@
 
     $double_age = $age * 2;
     echo $double_age;
+
+    
 ?>
 
 <!-- Constants -->
